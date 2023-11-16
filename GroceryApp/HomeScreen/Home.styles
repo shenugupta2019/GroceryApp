@@ -1,0 +1,9 @@
+import React from 'react';
+import {StyleSheet} from 'react-native';
+
+export default const homeStyle = StyleSheet.create({
+  p: {
+    color: 'blue',
+    fontSize: 14
+  }
+});
